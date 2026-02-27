@@ -1,0 +1,8 @@
+.venv/
+nea_libraries312/
+__pycache__/
+build/
+dist/
+*.pyc
+*.spec
+.DS_Store
